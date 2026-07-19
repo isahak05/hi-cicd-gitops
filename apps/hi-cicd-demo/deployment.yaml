@@ -26,7 +26,7 @@ spec:
 
       - name: hi-cicd-demo
 
-        image: docker pull harbor100.waltonbd.com:8443/demo01/hi-cicd:2e981674d1eed319b85501f7cc9b8d81e5498bea
+        image: harbor100.waltonbd.com:8443/demo01/hi-cicd:2e981674d1eed319b85501f7cc9b8d81e5498bea
 
         imagePullPolicy: Always
 
