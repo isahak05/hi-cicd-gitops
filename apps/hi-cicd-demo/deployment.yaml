@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: hi-cicd-demo2
+  name: hi-cicd-demo-test222
   namespace: default
 
 
