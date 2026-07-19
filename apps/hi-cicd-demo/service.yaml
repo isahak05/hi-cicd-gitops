@@ -9,7 +9,7 @@ metadata:
 spec:
 
   selector:
-    app: hi-cicd-demo
+    app: hi-cicd-demo-test222
 
   ports:
   - port: 80
