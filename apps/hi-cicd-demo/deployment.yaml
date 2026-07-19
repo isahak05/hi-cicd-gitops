@@ -10,12 +10,12 @@ spec:
 
   selector:
     matchLabels:
-      app: hi-cicd-demo
+      app: hi-cicd-demo-test222
 
   template:
     metadata:
       labels:
-        app: hi-cicd-demo
+        app: hi-cicd-demo-test222
 
     spec:
 
