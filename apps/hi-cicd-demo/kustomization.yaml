@@ -11,4 +11,4 @@ resources:
 images:
 - name: harbor100.waltonbd.com:8443/demo01/hi-cicd
   newName: harbor100.waltonbd.com:8443/demo01/hi-cicd
-  newTag: v3
+  newTag: v2.0.21
