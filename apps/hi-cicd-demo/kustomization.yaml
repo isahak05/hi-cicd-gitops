@@ -9,6 +9,6 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-  - name: harbor100.waltonbd.com:8443/demo01/hi-cicd
-    newName: harbor100.waltonbd.com:8443/demo01/hi-cicd
-    newTag: v1
+- name: harbor100.waltonbd.com:8443/demo01/hi-cicd
+  newName: harbor100.waltonbd.com:8443/demo01/hi-cicd
+  newTag: v1
