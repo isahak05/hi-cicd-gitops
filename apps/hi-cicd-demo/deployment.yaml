@@ -26,7 +26,7 @@ spec:
 
       - name: hi-cicd-demo
 
-        image: harbor100.waltonbd.com:8443/demo01/hi-cicd:v2
+        image: harbor100.waltonbd.com:8443/demo01/hi-cicd:v3
 
         imagePullPolicy: Always
 
